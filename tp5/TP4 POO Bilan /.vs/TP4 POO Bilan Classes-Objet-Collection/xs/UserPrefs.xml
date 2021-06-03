@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{54B46380-9C69-4260-A86A-E13C9ED92CDD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP4 POO Bilan Classes-Objet-Collection/App.config">
+    <Files>
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/Program.cs" Line="1" Column="1" />
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/modele.cs" Line="1" Column="1" />
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/FormBiensImmobiliers.cs" Line="1" Column="1" />
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/controleur.cs" Line="1" Column="1" />
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/Bien.cs" Line="1" Column="1" />
+      <File FileName="TP4 POO Bilan Classes-Objet-Collection/App.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP4 POO Bilan Classes-Objet-Collection" expanded="True">
+            <Node name="TP4 POO Bilan Classes-Objet-Collection" expanded="True">
+              <Node name="Properties" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TP4_220POO_220Bilan_220Classes-Objet-Collection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
